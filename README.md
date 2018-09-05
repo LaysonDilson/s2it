@@ -1,4 +1,7 @@
 # s2it
+## Estrutura
+
+As respostas 8 e 9 foram feitas utilizando java 10, utilizei o spring para prover o runner dos testes unitarios.
 
 ### Respostas das perguntas multipla escolha:
 
